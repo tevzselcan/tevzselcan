@@ -1,10 +1,7 @@
-### Hi there 👋
-
-Im Tevž, a 16 year old who likes to code :)
+### Hi there im Tevž👋
 
 <!--
-- 🔭 I’m currently working on Sia AI
-- 🌱 I’m currently learning JavaScript, C#, Python and Java
+- 🌱 I’m currently learning JavaScript, C# and Java
 - 👯 I’m looking to collaborate on basicly any projects
 - 📫 My discord: Coty#5049
 -->
