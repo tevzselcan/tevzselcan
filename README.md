@@ -5,7 +5,3 @@
 - 📫 My discord: Coty#5049
 
 Am I testing my code, or is it testing me🤔
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tevzselcan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
